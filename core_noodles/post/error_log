@@ -1,0 +1,32 @@
+[21-Sep-2017 23:55:21 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'latinobv'@'localhost' (using password: YES) in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 62
+[21-Sep-2017 23:58:02 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'zenprac1w'@'localhost' (using password: YES) in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 62
+[21-Sep-2017 23:59:54 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'zenprac1w'@'localhost' (using password: YES) in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 62
+[23-Oct-2017 23:43:50 Etc/GMT] PHP Warning:  imagecreatefrompng(): '../../uploads/articles/tmp.png' is not a valid PNG file in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 247
+[23-Oct-2017 23:43:50 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 249
+[24-Oct-2017 14:30:23 Etc/GMT] PHP Notice:  Undefined index: configuracion in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 115
+[24-Oct-2017 14:30:23 Etc/GMT] PHP Notice:  Undefined index: configuracion in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 116
+[24-Oct-2017 14:32:24 Etc/GMT] PHP Notice:  Undefined index: configuracion in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 115
+[24-Oct-2017 14:32:24 Etc/GMT] PHP Notice:  Undefined index: configuracion in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 116
+[25-Oct-2017 17:30:26 Etc/GMT] PHP Notice:  Undefined index: configuracion in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 115
+[25-Oct-2017 17:30:26 Etc/GMT] PHP Notice:  Undefined index: configuracion in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 116
+[27-Oct-2017 18:18:25 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'latinobv'@'localhost' (using password: YES) in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 62
+[27-Oct-2017 18:20:27 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'latinobv'@'localhost' (using password: YES) in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 62
+[27-Oct-2017 18:20:51 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'latinobv'@'localhost' (using password: YES) in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 62
+[31-Oct-2017 17:56:11 Etc/GMT] PHP Notice:  Undefined index: configuracion in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 115
+[31-Oct-2017 17:56:11 Etc/GMT] PHP Notice:  Undefined index: configuracion in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 116
+[01-Nov-2017 16:22:26 Etc/GMT] PHP Notice:  Undefined index: configuracion in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 115
+[01-Nov-2017 16:22:26 Etc/GMT] PHP Notice:  Undefined index: configuracion in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 116
+[09-Nov-2017 22:10:46 Etc/GMT] PHP Notice:  Undefined index: configuracion in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 115
+[09-Nov-2017 22:10:46 Etc/GMT] PHP Notice:  Undefined index: configuracion in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 116
+[20-Nov-2017 16:09:29 Etc/GMT] PHP Notice:  Undefined index: configuracion in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 115
+[20-Nov-2017 16:09:29 Etc/GMT] PHP Notice:  Undefined index: configuracion in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 116
+[20-Nov-2017 19:33:22 Etc/GMT] PHP Notice:  Undefined index: configuracion in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 115
+[20-Nov-2017 19:33:22 Etc/GMT] PHP Notice:  Undefined index: configuracion in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 116
+[13-Dec-2017 22:36:13 Etc/GMT] PHP Notice:  Undefined index: configuracion in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 115
+[13-Dec-2017 22:36:13 Etc/GMT] PHP Notice:  Undefined index: configuracion in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 116
+[14-Jan-2018 00:07:07 Etc/GMT] PHP Notice:  Undefined index: upload_image_by_galerie in /home/zenprac1/public_html/core_noodles/post/post.php on line 9
+[14-Jan-2018 00:07:07 Etc/GMT] PHP Notice:  Undefined property: Post::$titulo_simple in /home/zenprac1/public_html/core_noodles/post/funciones.php on line 120
+[04-Sep-2019 17:44:06 Etc/GMT] PHP Notice:  Undefined index: type in /home/arbeyyps/public_html/core_noodles/post/post.php on line 7
+[04-Sep-2019 17:52:46 Etc/GMT] PHP Notice:  Undefined index: type in /home/arbeyyps/public_html/core_noodles/post/post.php on line 7
+[04-Sep-2019 17:53:01 Etc/GMT] PHP Notice:  Undefined index: upload_image_by_galerie in /home/arbeyyps/public_html/core_noodles/post/post.php on line 14
+[04-Sep-2019 17:53:01 Etc/GMT] PHP Notice:  Undefined property: Post::$titulo_simple in /home/arbeyyps/public_html/core_noodles/post/funciones.php on line 176

@@ -1,0 +1,103 @@
+header img{
+  width: 100%;
+}
+#banner1{
+  margin-top: 40px;
+}
+#texto{
+  margin-top: 40px;
+}
+
+#info .col-6{
+  padding:0px;
+}
+  #info .col-6 .texto_info{
+    padding:20px;
+  }
+#info img{
+  width: 100%;
+}
+#info h2{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#propuestas h2{
+  font-weight: bold;
+}
+#propuestas .propuesta{
+  
+}
+#propuestas .propuesta .foto img{
+  width: 100%;
+  position: relative;
+  top:0px;
+}
+#propuestas .propuesta .foto .numero{
+  position: relative;
+  top: -50px;
+  left: -14px;
+  background: #177950;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  font-size: 20px;
+  line-height: 20px;
+  padding: 5px;
+  color: white;
+  border-radius: 100%;
+}
+
+.texto_rojo{
+  color: #EF3540 !important;
+}
+
+#contacto{
+
+}
+
+#contacto #foto{
+  position: absolute;
+  right: 1px;
+  bottom: 0px;
+}
+
+#contacto #logo{
+  margin-bottom: 20px;
+}
+
+#contacto h4{
+  margin-top: 30px;
+  font-weight: bold;
+}
+
+
+
+
+
+#menu{
+  background: #F2F2F3;
+  border-bottom: 1px solid #E2E3E5;
+  font-weight: bold;    text-align: center;
+}
+  #menu a{
+    color: black;
+  }
+
+#boton_principal{
+  font-family: 'coolvetica';
+  font-size: 40px;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+@font-face {
+  font-family: 'coolvetica';
+  src: URL('/theme/fonts/coolvetica.ttf') format('truetype');
+}
+
+
+#video{
+  background: #FDDFAB;
+  padding-top: 55px;
+  padding-bottom: 55px;
+}

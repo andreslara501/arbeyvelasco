@@ -1,0 +1,22 @@
+[21-Sep-2017 23:54:49 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'latinobv'@'localhost' (using password: YES) in /home/zenprac1/public_html/core_noodles/scripts/export_db.php on line 20
+[21-Sep-2017 23:54:49 Etc/GMT] PHP Warning:  mysqli::select_db(): Couldn't fetch mysqli in /home/zenprac1/public_html/core_noodles/scripts/export_db.php on line 21
+[21-Sep-2017 23:54:49 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zenprac1/public_html/core_noodles/scripts/export_db.php on line 22
+[21-Sep-2017 23:54:49 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zenprac1/public_html/core_noodles/scripts/export_db.php on line 24
+[21-Sep-2017 23:54:49 Etc/GMT] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/zenprac1/public_html/core_noodles/scripts/export_db.php on line 25
+[21-Sep-2017 23:54:52 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'latinobv'@'localhost' (using password: YES) in /home/zenprac1/public_html/core_noodles/scripts/export_db.php on line 20
+[21-Sep-2017 23:54:52 Etc/GMT] PHP Warning:  mysqli::select_db(): Couldn't fetch mysqli in /home/zenprac1/public_html/core_noodles/scripts/export_db.php on line 21
+[21-Sep-2017 23:54:52 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zenprac1/public_html/core_noodles/scripts/export_db.php on line 22
+[21-Sep-2017 23:54:52 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zenprac1/public_html/core_noodles/scripts/export_db.php on line 24
+[21-Sep-2017 23:54:52 Etc/GMT] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/zenprac1/public_html/core_noodles/scripts/export_db.php on line 25
+[21-Sep-2017 23:54:52 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'latinobv'@'localhost' (using password: YES) in /home/zenprac1/public_html/core_noodles/scripts/export_db.php on line 20
+[21-Sep-2017 23:54:52 Etc/GMT] PHP Warning:  mysqli::select_db(): Couldn't fetch mysqli in /home/zenprac1/public_html/core_noodles/scripts/export_db.php on line 21
+[21-Sep-2017 23:54:52 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zenprac1/public_html/core_noodles/scripts/export_db.php on line 22
+[21-Sep-2017 23:54:52 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zenprac1/public_html/core_noodles/scripts/export_db.php on line 24
+[21-Sep-2017 23:54:52 Etc/GMT] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/zenprac1/public_html/core_noodles/scripts/export_db.php on line 25
+[21-Sep-2017 23:54:53 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'latinobv'@'localhost' (using password: YES) in /home/zenprac1/public_html/core_noodles/scripts/export_db.php on line 20
+[21-Sep-2017 23:54:53 Etc/GMT] PHP Warning:  mysqli::select_db(): Couldn't fetch mysqli in /home/zenprac1/public_html/core_noodles/scripts/export_db.php on line 21
+[21-Sep-2017 23:54:53 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zenprac1/public_html/core_noodles/scripts/export_db.php on line 22
+[21-Sep-2017 23:54:53 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zenprac1/public_html/core_noodles/scripts/export_db.php on line 24
+[21-Sep-2017 23:54:53 Etc/GMT] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/zenprac1/public_html/core_noodles/scripts/export_db.php on line 25
+[21-Sep-2017 23:54:57 Etc/GMT] PHP Warning:  unlink(tmp.zip): No such file or directory in /home/zenprac1/public_html/core_noodles/scripts/zip.php on line 16
+[23-May-2018 13:21:20 Etc/GMT] PHP Warning:  unlink(tmp.zip): No such file or directory in /home/zenprac1/public_html/core_noodles/scripts/zip.php on line 16

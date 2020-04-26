@@ -1,0 +1,13 @@
+[23-May-2018 13:28:00 Etc/GMT] PHP Notice:  Undefined index: imagen in /home/zenprac1/public_html/uploads/links/index.php on line 53
+[23-May-2018 13:28:00 Etc/GMT] PHP Notice:  Undefined index: ancho in /home/zenprac1/public_html/uploads/links/index.php on line 54
+[23-May-2018 13:28:00 Etc/GMT] PHP Notice:  Undefined index: alto in /home/zenprac1/public_html/uploads/links/index.php on line 55
+[23-May-2018 13:28:00 Etc/GMT] PHP Notice:  Undefined index: calidad in /home/zenprac1/public_html/uploads/links/index.php on line 56
+[23-May-2018 13:28:00 Etc/GMT] PHP Warning:  imagecreatefromjpeg(.jpg): failed to open stream: No such file or directory in /home/zenprac1/public_html/uploads/links/index.php on line 15
+[23-May-2018 13:28:00 Etc/GMT] PHP Warning:  getimagesize(.jpg): failed to open stream: No such file or directory in /home/zenprac1/public_html/uploads/links/index.php on line 26
+[23-May-2018 13:28:00 Etc/GMT] PHP Warning:  Division by zero in /home/zenprac1/public_html/uploads/links/index.php on line 28
+[23-May-2018 13:28:00 Etc/GMT] PHP Warning:  Division by zero in /home/zenprac1/public_html/uploads/links/index.php on line 29
+[23-May-2018 13:28:00 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/zenprac1/public_html/uploads/links/index.php on line 42
+[23-May-2018 13:28:00 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/zenprac1/public_html/uploads/links/index.php on line 44
+[23-May-2018 13:28:00 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/zenprac1/public_html/uploads/links/index.php on line 45
+[23-May-2018 13:28:00 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/zenprac1/public_html/uploads/links/index.php on line 47
+[23-May-2018 13:28:00 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/zenprac1/public_html/uploads/links/index.php on line 50

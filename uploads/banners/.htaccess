@@ -1,0 +1,4 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)\_(.*)\_(.*)\_(.*)\.jpg index.php?imagen=$1&ancho=$2&alto=$3&calidad=$4
